@@ -1,4 +1,4 @@
-# BMIS 235 · HTML-2 · Embedding: Mind, Body, Craft
+ # BMIS 235 · HTML-2 · Embedding: Mind, Body, Craft
 
 **Name:** YOUR NAME
 **GU username:** YOUR-GU-USERNAME
